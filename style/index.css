@@ -1,0 +1,28 @@
+body{
+    background-color: #EDE6DB;
+    margin: 0px 0px 0px 0px;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.pageNav{
+ color: black;
+ font-size: 1.5rem;
+ padding-left: 2rem;
+}
+
+.pageNav:hover{
+    color: tomato;
+}
+
+main{
+    text-align: center;
+}
+
+footer{
+    padding-top: 12rem;
+    text-align: center;
+}
