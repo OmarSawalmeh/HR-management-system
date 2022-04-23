@@ -18,8 +18,17 @@ h1{
     color: tomato;
 }
 
-main{
-    text-align: center;
+label{
+    color: #B20600;
+    font-weight: 600;
+}
+
+#fullName, #department, #level, #imageUrl, #submit{
+    margin-bottom: 2rem;
+    font-size: 1rem;
+}
+#fullName{
+    margin-top: 2rem;
 }
 
 footer{
