@@ -26,3 +26,16 @@ footer{
     padding-top: 35rem;
     text-align: center;
 }
+
+#tableID{
+    margin-left: 37rem;
+    margin-top: 10rem;;
+    text-align: center;
+    font-size: 1.25rem;
+    color: #B20600;
+}
+
+tfoot{
+    color: bisque;
+    background-color: #00092C;
+}
