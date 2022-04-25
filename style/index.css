@@ -23,7 +23,7 @@ label{
     font-weight: 600;
 }
 
-#fullName, #department, #level, #imageUrl, #submit{
+#fullName, #department, #level, #imageUrl, #submit, #salary{
     margin-bottom: 2rem;
     font-size: 1rem;
 }
